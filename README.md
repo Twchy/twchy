@@ -11,6 +11,5 @@ Familiar with PHP & JavaScript since 2003, now building with **React + TypeScrip
 - 🎮 Still play anything from Simulations to FPS  
 - 🛠 My exit strategy is `:q!`  
 
----
 
 
